@@ -31,3 +31,19 @@ Projects will be added as I progress through the programme.
 ## Disclaimer
 
 This repository is for educational purposes. All security exercises are conducted using authorised learning environments and sample data.
+cybersecurity-learning-portfolio/
+│
+├── README.md
+│
+├── python/
+│   ├── day1.py
+│   ├── indoor.py
+│   └── playback.py
+│
+├── networking/
+│
+├── linux/
+│
+├── grc/
+│
+└── privacy-and-cyber-law/
